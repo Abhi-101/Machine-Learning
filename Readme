@@ -1,0 +1,12 @@
+### Rock vs. Mine Sonar Detection Using Machine Learning
+#### Table of Contents
+    1) Introduction
+    2) Problem Statement
+    3) Dataset Description
+    4) Exploratory Data Analysis (EDA)
+    5) Data Preprocessing and Data Traning
+    6) Logistic Regression
+    7) Model Evaluation
+    8) Predicting the data 
+
+With this model We have tried to predict whether the incoming sonar signals are of a Rock or a mine in deep water duing naval exploration.
